@@ -1,13 +1,13 @@
-README
+**README**
 
 ///////////////////
-Repository Contents
+**Repository Contents**
 ///////////////////
 
-1. Python Code (provided above):
+**1. Python Code (provided above):**
 This Python script is used to train a Random Forest model, make predictions, and export results in a CSV file. 
 
-2. Tableau Dashboard:
+**2. Tableau Dashboard:**
 The interactive Tableau dashboard that visualizes the pitch predictions, offering insights into pitch distribution by count and batter.
 
 	- LINK TO TABLEAU DASHBOARD: https://public.tableau.com/app/profile/deven.chatterjea/viz/RedsPitchPredictorSummary/PitchPredictionSummary
@@ -15,13 +15,14 @@ The interactive Tableau dashboard that visualizes the pitch predictions, offerin
 
 3. Coaching Staff Submission - Tableau Workbook File: The Tableau workbook file (Reds Pitch Predictor Summary.twbx) is included in the repository. Please reference the bottom left of the dashboard for dashboard guidance
 
-4. Technical Report (Reds_Technical_Report.pdf)
+**4. Technical Report (Reds_Technical_Report.pdf)**
 
 
 ////////////////////////////////////
-Instructions to Run the Python Code:
+**Instructions to Run the Python Code:**
 ///////////////////////////////////
-Requirements:
+
+**Requirements:**
 
 Python 3.x
 Libraries: pandas, numpy, sklearn, matplotlib, seaborn
