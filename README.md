@@ -10,7 +10,7 @@ This Python script is used to train a Random Forest model, make predictions, and
 The interactive Tableau dashboard that visualizes the pitch predictions, offering insights into pitch distribution by count and batter.
 
 LINK TO TABLEAU DASHBOARD: [https://public.tableau.com/app/profile/deven.chatterjea/viz/RedsPitchPredictorSummary/PitchPredictionSummary](https://public.tableau.com/app/profile/deven.chatterjea/viz/RedsPitchPredictorSummary/PitchPredictionSummary)
-Please zoom out if dashboard appears distorted.
+Must create a tableau public account to view
 
 **3. Coaching Staff Submission - Tableau Workbook File:** The Tableau workbook file (Reds Pitch Predictor Summary.twbx) is included in the repository. Please reference the bottom left of the dashboard for dashboard guidance
 
