@@ -23,11 +23,13 @@ Must create a tableau public account to view
 
 Python 3.x
 Libraries: pandas, numpy, sklearn, matplotlib, seaborn
+
 Steps:
 
 Download the provided data.csv file.
 Run the Python script in your preferred IDE or command line.
 The model will output a new predictions.csv file with pitch probabilities for each batter.
+
 Customizing:
 
 If you wish to explore the data further, uncomment the EDA section at the bottom of the script to generate histograms and heatmaps.
