@@ -1,8 +1,7 @@
 **README**
 
-///////////////////
 **Repository Contents**
-///////////////////
+
 
 **1. Python Code (provided above):**
 This Python script is used to train a Random Forest model, make predictions, and export results in a CSV file. 
@@ -18,9 +17,7 @@ Please zoom out if dashboard appears distorted.
 **4. Technical Report (Reds_Technical_Report.pdf)**
 
 
-////////////////////////////////////
 **Instructions to Run the Python Code:**
-///////////////////////////////////
 
 **Requirements:**
 
